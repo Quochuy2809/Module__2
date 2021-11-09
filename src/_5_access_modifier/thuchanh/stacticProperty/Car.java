@@ -1,0 +1,27 @@
+package _5_access_modifier.thuchanh.stacticProperty;
+
+public class Car {
+    private String name;
+
+    private String engine;
+
+
+
+    public static int numberOfCars;
+
+
+
+    public Car(String name, String engine) {
+
+        this.name = name;
+
+        this.engine = engine;
+
+        numberOfCars++;
+
+    }
+
+
+
+    // getters and setters
+}
