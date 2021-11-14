@@ -1,4 +1,4 @@
-package _6_ke_thua.baitap;
+package _6_ke_thua.baitap.class_point2D_and_class_point3D;
 
 public class Point3D extends Point2D {
         private float z;

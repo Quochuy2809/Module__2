@@ -1,6 +1,5 @@
-package _6_ke_thua.baitap;
+package _6_ke_thua.baitap.class_point2D_and_class_point3D;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class TestPoint {
